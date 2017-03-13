@@ -1,5 +1,8 @@
 _repo: The-Mysterious-Stranger-and-Other-Stories_3186
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +20,8 @@ description: "The Mysterious Stranger is the final novel attempted by the Americ
   \ Sense and the \"damned human race\".\nTwain wrote multiple versions of the story;\
   \ each is unfinished and involves a supernatural character called \"Satan\" or \"\
   No. 44\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3186#The-Mysterious-Stranger-and-Other-Stories
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2008-06-09'
 gutenberg_type: Text
